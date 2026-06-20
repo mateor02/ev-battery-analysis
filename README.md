@@ -138,6 +138,6 @@ MIT License
 
 ## Acknowledgments
 
-- Dataset provided by Carnegie Mellon University
+- [Dataset](https://kilthub.cmu.edu/articles/dataset/eVTOL_Battery_Dataset/14226830?file=26855072) provided by Carnegie Mellon University
 - Battery testing conducted by CMU researchers
 
